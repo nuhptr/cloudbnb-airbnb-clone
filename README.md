@@ -28,6 +28,7 @@ This is a clone of the popular website Airbnb. It is a full stack application th
 -  [Zustand](https://www.npmjs.com/package/zustand) - A small, fast and scaleable bearbones state-management solution. (bun add zustand)
 -  [Axios](https://www.npmjs.com/package/axios) - Promise based HTTP client for the browser and node.js. (bun add axios)
 -  [React Hook Form](https://www.npmjs.com/package/react-hook-form) - Performant, flexible and extensible forms with easy-to-use validation. (bun add react-hook-form)
+-  [React Hot Toast](https://www.npmjs.com/package/react-hot-toast) - Smoking hot React notifications. (bun add react-hot-toast)
 
 ## Getting Started
 
